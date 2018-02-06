@@ -1,0 +1,11 @@
+{
+    "name": "@nunl/nunl-multilevel-authentication",
+    "version": "0.0.1",
+    "description": "A plugin providing basic authentication using the Gigya API, as well as Active Directory with 2FA for staff-users.",
+    "main": "index.js",
+    "author": "Nu.nl Devteam <support@nu.nl>",
+    "license": "Apache-2.0",
+    "dependencies": {
+      "gravatar": "^1.6.0"
+    }
+  }
